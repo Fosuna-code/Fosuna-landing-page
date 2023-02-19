@@ -1,0 +1,24 @@
+{
+  "name": "fosuna-landing-page",
+  "version": "1.0.0",
+  "description": "This is a landing page that introduce me and my projects to new people",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fosuna-code/Fosuna-landing-page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fosuna-code/Fosuna-landing-page/issues"
+  },
+  "homepage": "https://github.com/Fosuna-code/Fosuna-landing-page#readme",
+  "dependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
